@@ -1,0 +1,42 @@
+{
+  "originHash" : "b4a736175d34187e455c952bb3c139c89c4e2271a353bd466ab9f08c8362edb4",
+  "pins" : [
+    {
+      "identity" : "slipstream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jverkoey/slipstream.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ce4aea0772b44ecf4eeca70d8c31d56c26be4414"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-cmark.git",
+      "state" : {
+        "branch" : "gfm",
+        "revision" : "fc07ab5da47975c5ef5f336acadfc02e8f706d30"
+      }
+    },
+    {
+      "identity" : "swift-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-markdown.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d21714073e0d16ba78eebdf36724863afc36871d"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "e2d11208519549c2e5798d70190472045633f22f",
+        "version" : "2.7.3"
+      }
+    }
+  ],
+  "version" : 3
+}
