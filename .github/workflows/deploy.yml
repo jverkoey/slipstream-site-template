@@ -33,7 +33,7 @@ jobs:
       - name: Install Tailwind CSS
         run: npm install -D tailwindcss@latest
       - name: Generate site
-        run: swift run && npx tailwindcss -i tailwind.css -o ./site/output.css --minify
+        run: swift run && npx tailwindcss -i tailwind.css -o ./site/main.css --minify
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
